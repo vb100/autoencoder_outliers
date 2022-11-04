@@ -16,5 +16,5 @@ To calculate the reconstruction errors for our data points we use the MSE (Mean 
 </p>
 
 <p>
-Link to the full video tutorial: [!!! YOUTUBE VIDEO !!!](https://youtu.be/f3FY7ZmoFN4)
+Link to the full video tutorial: [YOUTUBE VIDEO](https://youtu.be/f3FY7ZmoFN4)
 </p>
