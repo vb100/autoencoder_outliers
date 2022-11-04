@@ -15,6 +15,5 @@ Before ingesting the initial input to Decoder part, we must to convert our numer
 To calculate the reconstruction errors for our data points we use the MSE (Mean Squared Error) loss function. It is enough to find outliers (anomalies) in our dataset.<br>
 </p>
 
-<p>
-Link to the full video tutorial: [YOUTUBE VIDEO](https://youtu.be/f3FY7ZmoFN4)
-</p>
+
+Link to the full video tutorial: [!!! YOUTUBE VIDEO !!!](https://youtu.be/f3FY7ZmoFN4)
